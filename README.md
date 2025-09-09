@@ -2,6 +2,7 @@
 
 مستند اصلی تحقیق در فایل [./docs/research-paper.md](./docs/research-paper.md) قرار دارد
 
+همچنین ویدئو توضیحات این ابزار در [این فایل](./docs/video/video-link.txt) قرار دارد
 
 ## ساختار پروژه
 
