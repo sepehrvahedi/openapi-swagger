@@ -93,12 +93,12 @@ paths:
 components:
    schemas:
       User:
-      type: object
-      properties:
-         id:
-          type: integer
-         name:
-          type: string
+         type: object
+         properties:
+            id:
+             type: integer
+            name:
+             type: string
 ```
 ---
 
