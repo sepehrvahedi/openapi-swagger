@@ -13,7 +13,7 @@
     ├── examples
     │   ├── main-example-code.js
     │   └── swagger.yaml
-    ├── how-to-install.md
+    ├── how-to-use-locally.md
     ├── images
     │   ├── request-response-example.png
     │   ├── send-request-example.png
