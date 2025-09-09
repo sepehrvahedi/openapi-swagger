@@ -1,6 +1,7 @@
 # تحقیق OpenAPI (Swagger) - درس برنامه نویسی وب
 
-این مخزن شامل تحقیق جامع درباره OpenAPI (Swagger) و مثال عملی آن است.
+مستند اصلی تحقیق در فایل [./docs/research-paper.md](./docs/research-paper.md) قرار دارد
+
 
 ## ساختار پروژه
 
