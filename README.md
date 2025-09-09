@@ -1,4 +1,3 @@
-# openapi-swagger
 # تحقیق OpenAPI (Swagger) - درس برنامه نویسی وب
 
 این مخزن شامل تحقیق جامع درباره OpenAPI (Swagger) و مثال عملی آن است.
@@ -23,25 +22,6 @@
     └── video
         └── video-link.txt
 ```
-
-## نحوه اجرا
-
-### پیش نیازها
-
-bash
-node --version  # باید >= 14 باشد
-npm --version   # باید >= 6 باشد
-
-### اجرای مثال
-
-bash
-cd examples/basic-api
-npm install
-npm start
-
-سپس مراجعه کنید به:
-- API: http://localhost:3000
-- مستندات: http://localhost:3000/api-docs
 
 ## محتوای تحقیق
 
